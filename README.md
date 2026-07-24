@@ -60,7 +60,7 @@
 
 📧 **Email:** mtanushree109@gmail.com
 
-🔗 **LinkedIn:**
+🔗 **LinkedIn:** https://www.linkedin.com/in/tanushree-mahalle/
 
 💻 **GitHub:** https://github.com/Tanushree-Mahalle
 
