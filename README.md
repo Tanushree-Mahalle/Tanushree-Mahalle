@@ -49,11 +49,11 @@
 💡 Participated in Google Developer Groups Solution Challenge
 
 
-## 🌟 Highlights & Key Achievements
+## Achievements
 
-- 📜 **Published Author:** IEEE Conference Paper — *"A Multi-Stage Depth-Aware CNN with Hierarchical Feature Fusion for Automated Stroke Classification"* (ICICGR 2026)[cite: 1].
-- 🏅 **Certified Developer:** Wipro TalentNext Java Full Stack, NPTEL Programming in Java, ML with Python (IIT Hyderabad E-Cell)[cite: 1].
-- 🚀 **Hackathons:** Participant in **ISRO Bharatiya Antariksh Hackathon 2025** & **GDG Solution Challenge**[cite: 1].
+- 📜 **Published Author:** IEEE Conference Paper — *"A Multi-Stage Depth-Aware CNN with Hierarchical Feature Fusion for Automated Stroke Classification"* (ICICGR 2026).
+- 🏅 **Certified Developer:** Wipro TalentNext Java Full Stack, NPTEL Programming in Java, ML with Python (IIT Hyderabad E-Cell).
+- 🚀 **Hackathons:** Participant in **ISRO Bharatiya Antariksh Hackathon 2025** & **GDG Solution Challenge**.
 
 
 ## 📫 Connect With Me
